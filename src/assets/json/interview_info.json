@@ -1,0 +1,76 @@
+[
+    {
+        "nom":"Clément JABIERRE",
+        "annee_etude": "2015",
+        "date_interview": "09/05/2023",
+        "poste_actuel": "Ingénieur instrumentation",
+        "entreprise_actuel": "CETIM",
+        "localisation": "Senlis",
+        "stage_fin_etude": "J’ai effectué mon stage de fin d’année chez CETIM (Centre Technique des Industries Mécaniques) dans le domaine du contrôle non destructif (CND)",
+        "pourquoi_C&I": "J’ai choisi C&I car c’est une option qui lie l’homme à la machine. De plus, il y a des capteurs et de l’instrumentation partout, les débouchés sont donc nombreux. ",
+        "que_fait_mon_entreprise":"CETIM est le centre d’expertise mécanique français. Ils font des essais et simulations multiphysiques, du contrôle et de la mesure, de la caractérisation de matériaux, des structures et des systèmes. Ils sont concernés par la transition énergétique et environnementale. Ils mettent les connaissances scientifiques en applications au service de l’industrie",
+        "mon_role":null,
+        "domaines_connexes":null,
+        "evolution_metier":null
+    },
+    
+    {
+        "nom":"Alexandra FARRAN",
+        "annee_etude": "2018",
+        "date_interview": "10/05/2023",
+        "poste_actuel": "ingénieure en automatisation, robotique et instrumentation",
+        "entreprise_actuel": "SOLVAY (chimie)",
+        "localisation": "Bordeaux-Pessac",
+        "stage_fin_etude": "Mon alternance s’est faite à Solvay.",
+        "pourquoi_C&I": "Seule formation en alternance à l’époque, beaucoup de capteurs dans les robots créés.",
+        "que_fait_mon_entreprise":"Il s’agit d’une entreprise de chimie et de production des matériaux. Elle est basée dans 61 pays. Le groupe produit de la vanille, des tensioactifs (shampoing), des détergents, des matériaux dans le domaine médical... C’est une entreprise pluridisciplinaire. ",
+        "mon_role":"Je suis ingénieure en automatisation, robotique et instrumentation. J’interviens dans les tests et l’analyse d’image. J’aide les chercheurs en leur faisant gagner du temps, en rendant la recherche plus rapide et en protégeant les salariés. Je fabrique des machines pour répondre aux problématiques des chercheurs. Je code les robots en PYTHON et je forme les clients pour utiliser les robots. ",
+        "domaines_connexes":"Chimie",
+        "evolution_metier":"Carrière managériale (gérer des équipes) ou Carrière scientifique. "
+    },
+
+    {
+        "nom":"Ghita OUAZZANI TAYBI",
+        "annee_etude": "2020",
+        "date_interview": "11/05/2023",
+        "poste_actuel": "Ingénieure consultante ",
+        "entreprise_actuel": "Davidson",
+        "localisation": null,
+        "stage_fin_etude": "J’ai effectué mon stage de fin d’année chez EGM (bureau d’étude) dans le secteur de l’environnement. Mes missions étaient de faire de la qualification de capteurs et de l’étalonnage pour des mesures d’humidité du sol. De plus, je devais créer un instrument de mesure pour la mesure de la qualité de l’air.",
+        "pourquoi_C&I": "Lorsque j’étais au Maroc, j’étudiais la mécatronique. Voulant continuer dans cette voie, l’option C&I était une bonne option. Cette option est très épanouissante et propose de nombreux débouchés. ",
+        "que_fait_mon_entreprise":null,
+        "mon_role":null,
+        "domaines_connexes":null,
+        "evolution_metier":null
+    },
+
+    {
+        "nom":"Raphaël Brec",
+        "annee_etude": "2018",
+        "date_interview": "11/05/2023",
+        "poste_actuel": "Ingénieur vérification et validation",
+        "entreprise_actuel": "SOLENT",
+        "localisation": null,
+        "stage_fin_etude": "J’ai effectué mon stage de fin d’année chez CEA LCFO (Commissariat à l’Energie Atomique) dans le domaine des capteurs de fibres optique. Mes missions étaient d’assister un ingénieur de recherche et de développer un nouveau type de capteur. ",
+        "pourquoi_C&I": "C’était la seule option qui proposait de continuer dans l’optique en 4ème et 5ème année. De plus cette option m’a été très utile en stage. ",
+        "que_fait_mon_entreprise":"SOLENT conçoit et développe des systèmes logiciels embarqués ou système d’information. Cette entreprise travaille dans le secteur de l’aéronautique. ",
+        "mon_role":null,
+        "domaines_connexes":null,
+        "evolution_metier":null
+    },
+
+    {
+        "nom":"Sylvain AUGIER",
+        "annee_etude": "2017",
+        "date_interview": "10/05/2023",
+        "poste_actuel": "Ingénieur en conception instrumentale et pilote de drone",
+        "entreprise_actuel": "Laboratoire de géologie de Lyon",
+        "localisation": "Lyon",
+        "stage_fin_etude": "Stage d’ingénieur au CEA : étude d’un débitmètre à distorsion de flux pour détecter des bulles d’air au sein d’un fluide caloporteur. Etude expérimentale : Préparation du banc, rédaction du programme d’essais, réalisation des essais, Dépouillement des données avec Python, Conception et simulation du modèle numérique sur COMSOL Multiphysics",
+        "pourquoi_C&I": "C’est la partie mesure et nucléaire qui m’intéresse. Il y a une polyvalence dans les matières proposées. ",
+        "que_fait_mon_entreprise":"Laboratoire de géologie de Lyon. Travaille dans la surface et la lithosphère de la terre. ",
+        "mon_role":"Ingénieur en conception instrumentale et pilote de drone. Aide les enseignants chercheurs à obtenir des données. Je participe au projet ASTEP, ce projet vise à développer et commercialiser un drone filaire. Je participe au projet Radar SAR, ce projet permet l’analyse de surface, l’étude du sol et la détection d’eau. Mon rôle est de vérifier la faisabilité d’intégrer un radar SAR sur un drone aérien dans le cadre de l’étude de mars. Je participe à un projet visant à étudier l’érosion en Guadeloupe",
+        "domaines_connexes":"Géologie",
+        "evolution_metier":"Faire plus de recherches, rédiger des articles…"
+    }
+]

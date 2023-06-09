@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8" >
+    <title>Trouve un métier après C&I</title>
+    <link href="style.css" rel="stylesheet" >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cambay&family=Manrope&family=Montserrat&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <!-- <script defer src="app.js"></script> -->
+</head>
+
+<body>
+    <header>
+        <a href="index.html">Accueil</a>
+        <a href="work.html">Les métiers</a>
+        <a href="interview.html">Les interviews</a>
+        <a href="formation.html">La formation C&I</a>
+    </header>
+    <main>
+        <section>
+            <script>
+
+                window.onload = function(){
+                
+                $.get("assets/json/interview_info.json", function(data){
+                    console.log(data[1].nom);
+                    });
+                }
+
+            </script>
+        </section>
+    </main>
+</body>
+
+</html>
